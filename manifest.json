@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-custom-command-sync",
 	"name": "Obsidian Custom Command Sync",
-	"version": "1.1.0",
+	"version": "2.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
 	"author": "K0enM",
